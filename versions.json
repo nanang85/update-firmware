@@ -1,0 +1,10 @@
+[
+  {
+    "version": "Versi 1.0 (Stabil)",
+    "url": "https://raw.githubusercontent.com/username/repo/main/v1.bin"
+  },
+  {
+    "version": "Versi 2.0 (Animasi Baru)",
+    "url": "https://raw.githubusercontent.com/username/repo/main/v2.bin"
+  }
+]
